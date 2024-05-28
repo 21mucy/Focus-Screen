@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    width: 100%;
+    height: 100vh;
+    background-image:url(resimler/forest.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.text {
+border: 3px solid black;
+padding: 20px;
+margin: 20px;
+font-family: 'Times New Roman', Times, serif;
+color: white;
+}
+.btn {
+    color: black;
+}
